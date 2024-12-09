@@ -7,5 +7,10 @@
 
 import Foundation
 
-print("Hello, World!")
+let Nacho: String
+var edad: Int = 48
+
+edad += 1
+print(edad)
+
 
